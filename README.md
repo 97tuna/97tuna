@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97tuna&count_bg=%23FFD194&title_bg=%2370E1F5&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97tuna&count_bg=%23FFD194&title_bg=%2370E1F5&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- <p align="center">
     <img width="400px" src="https://user-images.githubusercontent.com/50114556/122798860-073d9500-d2fc-11eb-98fe-bae31f705c0e.PNG">
@@ -30,7 +30,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
-|**:trophy:contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| **본선진출** |
+|**:trophy:Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| ~~본선진출~~ <br> **결선진출** |
 |**:bulb:Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr:Republic of Korea 	| **출원중** |
 |**:trophy:Award**| 2020.06 	| 숭실대학교 캡스톤 디자인 	| Soongsil University	| 동상 |
 |**:trophy:Award**| 2020.02 	| [Bixby Crew Hackthon](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-Bixby-Crew-2%EA%B8%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0%EB%A5%BC-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Bixby Crew 2<sup>nd</sup>	| 동상 |
@@ -38,6 +38,7 @@
 |**:trophy:Award**| 2019.10 	| [숭실대학교 컴퓨터학과 소프트웨어 공모전](https://github.com/97tuna/Bixby_Capsule_BusTaja)	| Soongsil University 	| 동상 |
 |**:trophy:Award**| 2019.09 	| 숭실대학교 캡스톤 디자인	| Soongsil University 	| 동상 |
 |**:trophy:Award**| 2019.06 	| [Bixby Capsule Challenge Season 1](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-2019-%EA%B2%B0%EC%84%A0-%EC%A7%84%EC%B6%9C%EC%9E%91-%EB%B0%8F-%EC%9E%85%EC%84%A0%EC%9E%91%EC%9D%84-%EB%B0%9C%ED%91%9C%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Samsung Bixby Developers 	| 심사위원 특별언급 |
+|**:trophy:Contest**| 2015.07 	|  『C-LAB 액셀러레이팅』<br>**C-Lab 벤처창업 1기 공모전** 	| :kr:대구창조경제혁신센터, 삼성전자 	| **C-Lab 1<sup>st</sup>** |
 <br>
 
 ## :wrench: My Skill Set
