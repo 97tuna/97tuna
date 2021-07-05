@@ -90,4 +90,4 @@
 <br>
 <img width="400px" src="https://user-images.githubusercontent.com/50114556/121816502-016e0100-ccb7-11eb-96a9-7f9b0b4b6cd3.png">
 
-- [바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 어플리케이션
+[바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com), [빗썸](https://www.bithumb.com/), [코인원](https://coinone.co.kr/)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 어플리케이션
