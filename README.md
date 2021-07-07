@@ -30,6 +30,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
+|**:trophy:Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr:강원창조경제혁신센터 	| 예선서류통과 <br> **발표 평가중** |
 |**:trophy:Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| ~~본선진출~~ <br> **결선진출** |
 |**:bulb:Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr:Republic of Korea 	| **출원중** |
 |**:trophy:Award**| 2020.06 	| 숭실대학교 캡스톤 디자인 	| Soongsil University	| 동상 |
