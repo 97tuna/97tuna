@@ -1,13 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F97tuna&count_bg=%23FFD194&title_bg=%2370E1F5&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- <p align="center">
-    <img width="400px" src="https://user-images.githubusercontent.com/50114556/122798860-073d9500-d2fc-11eb-98fe-bae31f705c0e.PNG">
-</p> -->
-
-<!-- <p align="center">
-    <img width="900px" src="https://user-images.githubusercontent.com/50114556/122799445-b4181200-d2fc-11eb-84d3-36bb0efa0eb7.PNG">
-</p> -->
-
 <p align="center">
     <img width="850px" src="https://user-images.githubusercontent.com/50114556/122815317-40800000-d310-11eb-8a0a-c90ef258ca8d.PNG">
 </p>
@@ -22,8 +14,9 @@
 |**External activities**| 2019.09 ~ 2020.08 	| Bixby Crew 1<sup>st</sup><br><a href="https://bixby.developer.samsung.com/newsroom/ko-kr/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%B2%AB-%EB%B2%88%EC%A7%B8-Bixby-Crew-%EB%B2%84%EC%8A%A4%ED%83%80%EC%9E%90%ED%8C%80%EC%9D%84-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4">인터뷰 바로가기</a><br><a href="https://www.facebook.com/100002204496852/posts/2924541744295947/">마스크사자 개발기</a> 	| **Samsung Bixby Developers** 	|
 |**External activities**| 2020.03 ~ 2020.07 	| 나눔봉사단 8<sup>th</sup>	| **Samsung 대학생 봉사단** |
 |**External activities**| 2020.07 ~ 2020.08 	| 상상마케팅 스쿨 13<sup>rd</sup> 	| **KT&G** |
-|**External activities**| 2020.09 ~ 2020.11 	| 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
+|**External activities**| 2020.09 ~ 2020.11 	| 2020 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
 |**:office:Employment**| 2021.01 ~ 2021.07	| **AI Planning 인턴** 	| **NAVER Clova** |
+|**External activities**| 2021.08 ~ 진행중 	| 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
 <br>
 
 ## :trophy: Awards & :bulb: Patent
@@ -31,7 +24,7 @@
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
 |**:trophy:Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr:강원창조경제혁신센터 	| ~~예선서류통과~~ <br> **발표 평가중** |
-|**:trophy:Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| ~~본선진출~~ <br> **결선진출** |
+|**:trophy:Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| **결선 13<sup>rd</sup>** |
 |**:bulb:Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr:Republic of Korea 	| **출원중** |
 |**:trophy:Award**| 2020.06 	| 숭실대학교 캡스톤 디자인 	| Soongsil University	| 동상 |
 |**:trophy:Award**| 2020.02 	| [Bixby Crew Hackthon](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-Bixby-Crew-2%EA%B8%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0%EB%A5%BC-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Bixby Crew 2<sup>nd</sup>	| 동상 |
