@@ -16,7 +16,8 @@
 |**External activities**| 2020.07 ~ 2020.08 	| 상상마케팅 스쿨 13<sup>rd</sup> 	| **KT&G** |
 |**External activities**| 2020.09 ~ 2020.11 	| 2020 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
 |**:office:Employment**| 2021.01 ~ 2021.07	| **AI Planning 인턴** 	| **NAVER Clova** |
-|**External activities**| 2021.08 ~ 진행중 	| 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
+|**External activities**| 2021.08 ~	| 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
+|**:office:Employment**| 2021.08 ~	| **Content Manager** 	| **:lion:LIKE LION** |
 <br>
 
 ## :trophy: Awards & :bulb: Patent
