@@ -15,25 +15,25 @@
 |**External activities**| 2020.03 ~ 2020.07 	| 나눔봉사단 8<sup>th</sup>	| **Samsung 대학생 봉사단** |
 |**External activities**| 2020.07 ~ 2020.08 	| 상상마케팅 스쿨 13<sup>rd</sup> 	| **KT&G** |
 |**External activities**| 2020.09 ~ 2020.11 	| 2020 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
-|**:office:Employment**| 2021.01 ~ 2021.07	| **AI Planning 인턴** 	| **NAVER Clova** |
+|**:office: Employment**| 2021.01 ~ 2021.07	| **AI Planning 인턴** 	| **NAVER Clova** |
 |**External activities**| 2021.08 ~	| 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
-|**:office:Employment**| 2021.08 ~	| **Content Manager** 	| **:lion:LIKE LION** |
+|**:office: Employment**| 2021.08 ~	| **Content Manager** 	| **:lion: LIKE LION** |
 <br>
 
 ## :trophy: Awards & :bulb: Patent
 
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
-|**:trophy:Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr:강원창조경제혁신센터 	| ~~예선서류통과~~ <br> **발표 평가중** |
-|**:trophy:Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| **결선 13<sup>rd</sup>** |
-|**:bulb:Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr:Republic of Korea 	| **출원중** |
-|**:trophy:Award**| 2020.06 	| 숭실대학교 캡스톤 디자인 	| Soongsil University	| 동상 |
-|**:trophy:Award**| 2020.02 	| [Bixby Crew Hackthon](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-Bixby-Crew-2%EA%B8%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0%EB%A5%BC-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Bixby Crew 2<sup>nd</sup>	| 동상 |
-|**:trophy:Award**| 2019.12 	| [Bixby Capsule Challenge Season 2](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C2%EC%9D%98-%EC%97%B4%EA%B8%B0%EC%99%80-%EA%B2%B0%EC%84%A0-%ED%98%84%EC%9E%A5%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94) 	| Samsung Bixby Developers 	| 동상 |
-|**:trophy:Award**| 2019.10 	| [숭실대학교 컴퓨터학과 소프트웨어 공모전](https://github.com/97tuna/Bixby_Capsule_BusTaja)	| Soongsil University 	| 동상 |
-|**:trophy:Award**| 2019.09 	| 숭실대학교 캡스톤 디자인	| Soongsil University 	| 동상 |
-|**:trophy:Award**| 2019.06 	| [Bixby Capsule Challenge Season 1](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-2019-%EA%B2%B0%EC%84%A0-%EC%A7%84%EC%B6%9C%EC%9E%91-%EB%B0%8F-%EC%9E%85%EC%84%A0%EC%9E%91%EC%9D%84-%EB%B0%9C%ED%91%9C%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Samsung Bixby Developers 	| 심사위원 특별언급 |
-|**:trophy:Contest**| 2015.07 	|  『C-LAB 액셀러레이팅』<br>**C-Lab 벤처창업 1기 공모전** 	| :kr:대구창조경제혁신센터, 삼성전자 	| **C-Lab 1<sup>st</sup>** |
+|**:trophy: Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr:강원창조경제혁신센터 	| ~~예선서류통과~~ <br> **발표 평가중** |
+|**:trophy: Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr:Artificial Intelligence Industry Cluster Agency 	| **결선 13<sup>rd</sup>** |
+|**:bulb: Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr:Republic of Korea 	| **출원중** |
+|**:trophy: Award**| 2020.06 	| 숭실대학교 캡스톤 디자인 	| Soongsil University	| 동상 |
+|**:trophy: Award**| 2020.02 	| [Bixby Crew Hackthon](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-Bixby-Crew-2%EA%B8%B0%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%9C-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9B%84%EA%B8%B0%EB%A5%BC-%EA%B3%B5%EC%9C%A0%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Bixby Crew 2<sup>nd</sup>	| 동상 |
+|**:trophy: Award**| 2019.12 	| [Bixby Capsule Challenge Season 2](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%8B%9C%EC%A6%8C2%EC%9D%98-%EC%97%B4%EA%B8%B0%EC%99%80-%EA%B2%B0%EC%84%A0-%ED%98%84%EC%9E%A5%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94) 	| Samsung Bixby Developers 	| 동상 |
+|**:trophy: Award**| 2019.10 	| [숭실대학교 컴퓨터학과 소프트웨어 공모전](https://github.com/97tuna/Bixby_Capsule_BusTaja)	| Soongsil University 	| 동상 |
+|**:trophy: Award**| 2019.09 	| 숭실대학교 캡스톤 디자인	| Soongsil University 	| 동상 |
+|**:trophy: Award**| 2019.06 	| [Bixby Capsule Challenge Season 1](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-2019-%EA%B2%B0%EC%84%A0-%EC%A7%84%EC%B6%9C%EC%9E%91-%EB%B0%8F-%EC%9E%85%EC%84%A0%EC%9E%91%EC%9D%84-%EB%B0%9C%ED%91%9C%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Samsung Bixby Developers 	| 심사위원 특별언급 |
+|**:trophy: Contest**| 2015.07 	|  『C-LAB 액셀러레이팅』<br>**C-Lab 벤처창업 1기 공모전** 	| :kr:대구창조경제혁신센터, 삼성전자 	| **C-Lab 1<sup>st</sup>** |
 <br>
 
 ## :wrench: My Skill Set
