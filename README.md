@@ -8,7 +8,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:-: |:-: |:-: |:-: |
-|**:mortar_board:Education**| 2016.03 ~ 	| **School of Electronic Engineering** 	| **Soongsil University** |
+|**:mortar_board: Education**| 2016.03 ~ 	| **School of Electronic Engineering** 	| **Soongsil University** |
 |**Research activities**| 2016.03 ~ 	| 24<sup>th</sup> 회원 	| **Soongsil University Robotics** |
 |**External activities**| 2019.06 ~ 2020.01 	| D:PLE 18<sup>th</sup> 	| **LG디스플레이 서포터즈** |
 |**External activities**| 2019.09 ~ 2020.08 	| Bixby Crew 1<sup>st</sup><br><a href="https://bixby.developer.samsung.com/newsroom/ko-kr/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%B2%AB-%EB%B2%88%EC%A7%B8-Bixby-Crew-%EB%B2%84%EC%8A%A4%ED%83%80%EC%9E%90%ED%8C%80%EC%9D%84-%EB%A7%8C%EB%82%98%EB%B3%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4">인터뷰 바로가기</a><br><a href="https://www.facebook.com/100002204496852/posts/2924541744295947/">마스크사자 개발기</a> 	| **Samsung Bixby Developers** 	|
