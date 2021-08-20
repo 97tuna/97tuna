@@ -33,7 +33,7 @@
 |**:trophy: Award**| 2019.10 	| [숭실대학교 컴퓨터학과 소프트웨어 공모전](https://github.com/97tuna/Bixby_Capsule_BusTaja)	| Soongsil University 	| 동상 |
 |**:trophy: Award**| 2019.09 	| 숭실대학교 캡스톤 디자인	| Soongsil University 	| 동상 |
 |**:trophy: Award**| 2019.06 	| [Bixby Capsule Challenge Season 1](https://bixby.developer.samsung.com/newsroom/ko-kr/%ED%96%89%EC%82%AC-%ED%9B%84%EA%B8%B0-%EB%B9%85%EC%8A%A4%EB%B9%84-%EC%BA%A1%EC%8A%90-%EC%B1%8C%EB%A6%B0%EC%A7%80-2019-%EA%B2%B0%EC%84%A0-%EC%A7%84%EC%B6%9C%EC%9E%91-%EB%B0%8F-%EC%9E%85%EC%84%A0%EC%9E%91%EC%9D%84-%EB%B0%9C%ED%91%9C%ED%95%A9%EB%8B%88%EB%8B%A4) 	| Samsung Bixby Developers 	| 심사위원 특별언급 |
-|**:trophy: Contest**| 2015.07 	|  『C-LAB 액셀러레이팅』<br>**C-Lab 벤처창업 1기 공모전** 	| :kr: 대구창조경제혁신센터, 삼성전자 	| **C-Lab 1<sup>st</sup>** |
+|**:trophy: Contest**| 2015.07 	| 『C-LAB 액셀러레이팅』<br>**C-Lab 벤처창업 1기 공모전** 	| :kr: 대구창조경제혁신센터, 삼성전자 	| **C-Lab 1<sup>st</sup>** |
 <br>
 
 ## :wrench: My Skill Set
