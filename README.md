@@ -92,4 +92,4 @@
 사용자의 구강 이미지를 분석하여 치아 상태를 알려주는 어플리케이션 (제작중)
 
 <br>
-<img width="250px" src="https://user-images.githubusercontent.com/50114556/132097430-7a767a14-154a-4339-9259-938316bebebe.png">
+<img width="350px" src="https://user-images.githubusercontent.com/50114556/132097430-7a767a14-154a-4339-9259-938316bebebe.png">
