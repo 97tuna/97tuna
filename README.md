@@ -3,7 +3,7 @@
 <p align="center">
     <img width="850px" src="https://user-images.githubusercontent.com/50114556/122815317-40800000-d310-11eb-8a0a-c90ef258ca8d.PNG">
 </p>
-s
+
 ## :office: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
