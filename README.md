@@ -24,6 +24,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
+|**:trophy: Award**| 2021.11 	|  **전자정보공학부 졸업작품 경진대회** 	| Soongsil University 	| **총장상** |
 |**:trophy: Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr: 강원창조경제혁신센터 	| **예선서류통과** |
 |**:trophy: Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr: Artificial Intelligence Industry Cluster Agency 	| **결선 13<sup>rd</sup>** |
 |**:bulb: Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr: Republic of Korea 	| **출원중** |
