@@ -15,7 +15,7 @@
 |**External activities**| 2020.03 ~ 2020.07 	| 나눔봉사단 8<sup>th</sup>	| **Samsung 대학생 봉사단** |
 |**External activities**| 2020.07 ~ 2020.08 	| 상상마케팅 스쿨 13<sup>rd</sup> 	| **KT&G** |
 |**External activities**| 2020.09 ~ 2020.11 	| 2020 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
-|**:office: Employment**| 2021.01 ~ 2021.07	| **AI Planning 인턴** 	| **NAVER Clova** |
+|**:office: Employment**| 2021.01 ~ 2021.07	| **AI Planning Intern** 	| **NAVER Clova** |
 |**External activities**| 2021.08 ~	2021.09 | 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
 |**:office: Employment**| 2021.08 ~	| **Content Manager** 	| **:lion: LIKE LION** |
 <br>
@@ -24,7 +24,7 @@
 
 | **Type** | **Date** | **Contents** | **Organization** | **Results** |
 |:-: |:-: |:-: |:-: |:-: |
-|**:trophy: Award**| 2021.11 	|  **전자정보공학부 졸업작품 경진대회** 	| Soongsil University 	| **총장상** |
+|**:trophy: Award**| 2021.11 	|  **[전자정보공학부 졸업작품 경진대회](https://github.com/RoomDentist/iOS_RoomDentist)** 	| Soongsil University 	| **총장상** |
 |**:trophy: Contest**| 2021.07 	|  **도전! K-스타트업 2021 혁신창업리그** 	| :kr: 강원창조경제혁신센터 	| **예선서류통과** |
 |**:trophy: Contest**| 2021.06 	|  『인공지능 중심 산업융합 집적단지 조성』<br>**2021년 AI 창업 경진대회** 	| :kr: Artificial Intelligence Industry Cluster Agency 	| **결선 13<sup>rd</sup>** |
 |**:bulb: Patent**| 2020.12 	|  **모션인식을 활용한 자동 수화 번역 제공 시스템 및 그 방법** 	| :kr: Republic of Korea 	| **출원중** |
@@ -86,11 +86,11 @@
 <br>
 <img width="400px" src="https://user-images.githubusercontent.com/50114556/121816502-016e0100-ccb7-11eb-96a9-7f9b0b4b6cd3.png">
 
-[바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com), [빗썸](https://www.bithumb.com/), [코인원](https://coinone.co.kr/)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 어플리케이션
+[바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com), [빗썸](https://www.bithumb.com/), [코인원](https://coinone.co.kr/)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 iOS 어플리케이션 [바로가기](https://github.com/97tuna/KimpME)
 
 <br>
 <img width="250px" src="https://user-images.githubusercontent.com/50114556/126490482-022e24b2-9d65-4066-abc2-11a315078598.png">
-사용자의 구강 이미지를 분석하여 치아 상태를 알려주는 어플리케이션 (제작중)
+사용자의 구강 이미지를 분석하여 치아, 치주 상태를 알려주는 iOS 어플리케이션 [바로가기](https://github.com/RoomDentist/iOS_RoomDentist)
 
-<br>
-<img width="350px" src="https://user-images.githubusercontent.com/50114556/132097430-7a767a14-154a-4339-9259-938316bebebe.png">
+<!-- <br> -->
+<!-- <img width="350px" src="https://user-images.githubusercontent.com/50114556/132097430-7a767a14-154a-4339-9259-938316bebebe.png"> -->
