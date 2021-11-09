@@ -86,11 +86,12 @@
 <br>
 <img width="400px" src="https://user-images.githubusercontent.com/50114556/121816502-016e0100-ccb7-11eb-96a9-7f9b0b4b6cd3.png">
 
-[바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com), [빗썸](https://www.bithumb.com/), [코인원](https://coinone.co.kr/)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 iOS 어플리케이션 [바로가기](https://github.com/97tuna/KimpME)
+[바이낸스](https://binance.com/ko)시세와 [업비트](https://upbit.com), [빗썸](https://www.bithumb.com/), [코인원](https://coinone.co.kr/)의 실시간 시세를 받아와 차액을 계산하여 각 코인당 김치 프리미엄 가격을 표시하는 [iOS 어플리케이션](https://github.com/97tuna/KimpME)
 
 <br>
 <img width="250px" src="https://user-images.githubusercontent.com/50114556/126490482-022e24b2-9d65-4066-abc2-11a315078598.png">
-사용자의 구강 이미지를 분석하여 치아, 치주 상태를 알려주는 iOS 어플리케이션 [바로가기](https://github.com/RoomDentist/iOS_RoomDentist)
+
+사용자의 구강 이미지를 분석하여 치아, 치주 상태를 알려주는 [iOS 어플리케이션](https://github.com/RoomDentist/iOS_RoomDentist)
 
 <!-- <br> -->
 <!-- <img width="350px" src="https://user-images.githubusercontent.com/50114556/132097430-7a767a14-154a-4339-9259-938316bebebe.png"> -->
