@@ -18,7 +18,7 @@
 |**:office: Employment**| 2021.01 ~ 2021.07	| **AI Planning Intern** 	| **NAVER Clova** |
 |**External activities**| 2021.08 ~	2021.09 | 2021 주니어 SW 창작대회 대학생 멘토 	| **Samsung CSR** |
 |**:office: Employment**| 2021.08 ~	2022.05 | **Content Manager** 	| **:lion: LIKE LION** |
-|**:office: Employment**| 2022.05 ~ | **Develper Advocate** 	| **YGY** |
+|**:office: Employment**| 2022.05 ~ | **Developer Advocate** 	| **YGY** |
 <br>
 
 ## :trophy: Awards & :bulb: Patent
